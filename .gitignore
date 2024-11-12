@@ -1,0 +1,3 @@
+# Ignoramos archivos .pkl
+*.pkl
+*.pth

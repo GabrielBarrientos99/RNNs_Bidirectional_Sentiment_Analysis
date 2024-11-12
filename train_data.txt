@@ -1,0 +1,2645 @@
+Parrafo_1:
+Me siento extremadamente feliz hoy. Todo está saliendo como lo planeé. Es un día brillante y lleno de posibilidades.
+sentimiento_1:
+0.9
+
+Parrafo_2:
+Hoy ha sido un día difícil. Las cosas no han salido como esperaba, pero sigo intentando mantenerme positivo. A veces, simplemente no es fácil.
+sentimiento_2:
+0.2
+
+Parrafo_3:
+No puedo evitar sentir una tristeza profunda. La situación se ha vuelto insoportable y todo parece más complicado de lo que esperaba. Es como si las nubes no fueran a despejarse.
+sentimiento_3:
+-0.8
+
+Parrafo_4:
+Logré finalizar mi proyecto a tiempo. Me siento satisfecho y orgulloso de lo que he hecho. Es una sensación gratificante.
+sentimiento_4:
+0.8
+
+Parrafo_5:
+La reunión fue larga y tediosa, y no llegamos a ninguna conclusión clara. Me sentí frustrado y cansado al final. Espero que la próxima sea más productiva.
+sentimiento_5:
+-0.3
+
+Parrafo_6:
+Salí a correr esta mañana y me sentí revitalizado. El aire fresco y el ejercicio fueron justo lo que necesitaba. Ahora me siento listo para enfrentar el resto del día con energía.
+sentimiento_6:
+0.7
+
+Parrafo_7:
+La noticia de su partida me dejó en shock. No esperaba que sucediera tan pronto, y ha sido un golpe duro de aceptar. Todo parece un poco más sombrío hoy.
+sentimiento_7:
+-0.7
+
+Parrafo_8:
+La película fue increíble, llena de giros inesperados y emociones intensas. Me mantuvo al borde de mi asiento todo el tiempo. Definitivamente la recomendaría a mis amigos.
+sentimiento_8:
+0.9
+
+Parrafo_9:
+El examen fue extremadamente complicado. Me esforcé al máximo, pero no estoy seguro de si fue suficiente. Espero que los resultados no sean tan malos como creo.
+sentimiento_9:
+-0.2
+
+Parrafo_10:
+Pasé una tarde tranquila en casa leyendo mi libro favorito. Fue relajante y me ayudó a desconectar de la rutina. Me sentí en paz y contento.
+sentimiento_10:
+0.6
+
+Parrafo_11:
+Soy feliz como una lombriz
+0.98
+
+Parrafo_12:
+Hoy será un buen día
+sentimiento_12:
+0.8
+
+Parrafo_13:
+El día de hoy será genial
+sentimiento_13:
+0.87
+
+Parrafo_14:
+No se si llorar o reir
+sentimiento_14:
+-0.4
+
+Parrafo_15:
+La tristeza me consume.
+sentimiento_15:
+-0.77
+
+Parrafo_16:
+Estoy tan emocionado que no puedo esperar para empezar.
+sentimiento_16:
+0.9
+
+Parrafo_17:
+Nada parece ir bien hoy.
+sentimiento_17:
+-0.85
+
+Parrafo_18:
+Hoy me siento completamente sin esperanzas.
+sentimiento_18:
+-0.9
+
+Parrafo_19:
+El sol brilla y me siento optimista.
+sentimiento_19:
+0.8
+
+Parrafo_20:
+Mi corazón está lleno de amor y gratitud.
+sentimiento_20:
+0.95
+
+Parrafo_21:
+Siento una profunda tristeza que no puedo explicar.
+sentimiento_21:
+-0.9
+
+Parrafo_22:
+Es un día lluvioso y gris que refleja mi ánimo.
+sentimiento_22:
+-0.6
+
+Parrafo_23:
+Me siento atrapado en un bucle de frustración.
+sentimiento_23:
+-0.7
+
+Parrafo_24:
+Estoy desbordado de felicidad hoy.
+sentimiento_24:
+0.99
+
+Parrafo_25:
+Todo lo que hago resulta ser un fracaso.
+sentimiento_25:
+-0.8
+
+Parrafo_26:
+Finalmente, todo mi esfuerzo ha dado frutos.
+sentimiento_26:
+0.85
+
+Parrafo_27:
+Estoy decepcionado con los resultados de hoy.
+sentimiento_27:
+-0.65
+
+Parrafo_28:
+He tenido un día increíblemente productivo.
+sentimiento_28:
+0.75
+
+Parrafo_29:
+Estoy enojado y frustrado con la situación.
+sentimiento_29:
+-0.8
+
+Parrafo_30:
+He encontrado paz en mi jardín.
+sentimiento_30:
+0.7
+
+Parrafo_31:
+Estoy ansioso por los cambios que están llegando.
+sentimiento_31:
+-0.3
+
+Parrafo_32:
+No puedo dejar de sonreír.
+sentimiento_32:
+0.88
+
+Parrafo_33:
+Estoy devastado por las noticias recientes.
+sentimiento_33:
+-0.95
+
+Parrafo_34:
+Finalmente entiendo lo que necesito hacer.
+sentimiento_34:
+0.65
+
+Parrafo_35:
+Hoy me siento invisible para todos a mi alrededor.
+sentimiento_35:
+-0.5
+
+Parrafo_36:
+El reloj está colgado en la pared.
+sentimiento_36:
+0.0
+
+Parrafo_37:
+El gato está durmiendo en la silla.
+sentimiento_37:
+0.0
+
+Parrafo_38:
+Hay un libro sobre la mesa.
+sentimiento_38:
+0.0
+
+Parrafo_39:
+La ventana está abierta.
+sentimiento_39:
+0.0
+
+Parrafo_40:
+El coche está estacionado fuera.
+sentimiento_40:
+0.0
+
+Parrafo_41:
+El agua hierve a 100 grados Celsius.
+sentimiento_41:
+0.0
+
+Parrafo_42:
+El cielo es azul durante el día.
+sentimiento_42:
+0.0
+
+Parrafo_43:
+La computadora está encendida.
+sentimiento_43:
+0.0
+
+Parrafo_44:
+Los platos están en el lavaplatos.
+sentimiento_44:
+0.0
+
+Parrafo_45:
+Hoy es un día bastante normal, pero me siento bien.
+sentimiento_45:
+0.4
+
+Parrafo_46:
+La comida estaba buena, podría volver a comerla.
+sentimiento_46:
+0.3
+
+Parrafo_47:
+La reunión fue corta, lo cual es agradable.
+sentimiento_47:
+0.35
+
+Parrafo_48:
+He terminado mi trabajo a tiempo, lo que es bastante satisfactorio.
+sentimiento_48:
+0.45
+
+Parrafo_49:
+El clima está ligeramente soleado hoy, lo cual es agradable.
+sentimiento_49:
+0.25
+
+Parrafo_50:
+Recibí una sonrisa de un desconocido en la calle, fue un gesto amable.
+sentimiento_50:
+0.4
+
+Parrafo_51:
+Mi jefe dijo que mi presentación fue competente, me siento bien al respecto.
+sentimiento_51:
+0.4
+
+Parrafo_52:
+Logré levantarme temprano esta mañana, lo cual es un buen comienzo del día.
+sentimiento_52:
+0.3
+
+Parrafo_53:
+El café de esta mañana estaba especialmente bueno.
+sentimiento_53:
+0.35
+
+Parrafo_54:
+El tráfico hoy no fue tan malo como usualmente es.
+sentimiento_54:
+0.25
+
+Parrafo_55:
+Me siento un poco cansado hoy, no dormí bien.
+sentimiento_55:
+-0.3
+
+Parrafo_56:
+La comida no estaba tan buena como esperaba.
+sentimiento_56:
+-0.4
+
+Parrafo_57:
+Está un poco frío hoy, debería haber traído un suéter.
+sentimiento_57:
+-0.35
+
+Parrafo_58:
+He tenido días mejores; hoy me siento algo desanimado.
+sentimiento_58:
+-0.45
+
+Parrafo_59:
+El trabajo fue más complicado de lo normal, me dejó agotado.
+sentimiento_59:
+-0.4
+
+Parrafo_60:
+Estoy ligeramente preocupado por la reunión de mañana.
+sentimiento_60:
+-0.25
+
+Parrafo_61:
+Mi equipo perdió el juego, no es el mejor día.
+sentimiento_61:
+-0.3
+
+Parrafo_62:
+Me molesta que el internet esté lento hoy.
+sentimiento_62:
+-0.35
+
+Parrafo_63:
+Olvidé mi almuerzo en casa, tendré que comprar algo.
+sentimiento_63:
+-0.25
+
+Parrafo_64:
+El bus estaba demasiado lleno, fue un viaje incómodo.
+sentimiento_64:
+-0.4
+
+Parrafo_65:
+El clima está ligeramente soleado hoy, lo cual es agradable. Sin embargo, olvidé mi almuerzo en casa, tendré que comprar algo. El café de esta mañana estaba especialmente bueno.
+sentimiento_65:
+0.2
+
+Parrafo_66:
+La comida no estaba tan buena como esperaba, lo que fue un poco decepcionante. Después, recibí una sonrisa de un desconocido en la calle, fue un gesto amable. Estoy ligeramente preocupado por la reunión de mañana.
+sentimiento_66:
+-0.1
+
+Parrafo_67:
+Me molesta que el internet esté lento hoy, me está retrasando mucho. El tráfico hoy no fue tan malo como usualmente es, lo cual fue un alivio. He terminado mi trabajo a tiempo, lo que es bastante satisfactorio.
+sentimiento_67:
+0.1
+
+Parrafo_68:
+El bus estaba demasiado lleno, fue un viaje incómodo. A pesar de eso, logré levantarme temprano esta mañana, lo cual es un buen comienzo del día. Lamentablemente, la reunión fue corta, lo cual es agradable.
+sentimiento_68:
+-0.15
+
+Parrafo_69:
+Mi equipo perdió el juego, no es el mejor día. Pero al menos he encontrado paz en mi jardín, lo cual me ayuda a relajarme. Finalmente, todo mi esfuerzo ha dado frutos, y me siento contento con los resultados.
+sentimiento_69:
+0.3
+
+Parrafo_70:
+Estoy tan emocionado que no puedo esperar para empezar. Me siento un poco cansado hoy, no dormí bien, lo cual me frustra. Hoy es un día bastante normal, pero me siento bien en general.
+sentimiento_70:
+0.2
+
+Parrafo_71:
+Me siento un poco cansado hoy, probablemente por el mal sueño de anoche. Aún así, la luz del sol entrando por la ventana me anima un poco. Hoy será un día largo.
+sentimiento_71:
+-0.1
+
+Parrafo_72:
+El día comenzó con un café excepcionalmente bueno, lo cual me levantó el ánimo. Sin embargo, la primera reunión de la mañana fue más intensa de lo esperado, dejándome algo agotado. Afortunadamente, el almuerzo con un amigo promete ser un buen descanso.
+sentimiento_72:
+0.3
+
+Parrafo_73:
+La computadora se trabó varias veces hoy, lo que me frustró bastante. Por otro lado, recibí buenas noticias por correo, lo que equilibró mi estado de ánimo. Ahora solo espero que la tarde sea tranquila.
+sentimiento_73:
+0.1
+
+Parrafo_74:
+La noticia de que mi serie favorita ha sido renovada por otra temporada me ha hecho el día. Desafortunadamente, me he dado cuenta de que he perdido mi libro favorito. Al menos, el clima ha estado agradable, suavizando un poco mi decepción.
+sentimiento_74:
+0.2
+
+Parrafo_75:
+Esta mañana encontré algo de dinero en la calle, lo que fue una sorpresa agradable. Sin embargo, la alegría fue de corta duración ya que luego recibí una llamada con malas noticias de un familiar. Trato de no dejarme llevar por la tristeza y concentrarme en el trabajo.
+sentimiento_75:
+-0.1
+
+Parrafo_76:
+Hoy me desperté sintiéndome bastante optimista, a pesar del clima lluvioso. Mi optimismo fue desafiado por un proyecto difícil en el trabajo. Por suerte, una conversación alentadora con un colega me ayudó a superarlo.
+sentimiento_76:
+0.2
+
+Parrafo_77:
+Estoy molesto porque olvidé mi almuerzo en casa, pero el café estaba especialmente delicioso hoy. Aunque el día ha tenido un comienzo difícil, la perspectiva de un evento interesante esta noche me mantiene motivado.
+sentimiento_77:
+0.1
+
+Parrafo_78:
+El tráfico fue terrible esta mañana, lo que me puso de mal humor. Sin embargo, la llegada al trabajo y ver a mis compañeros me animó. Espero que la productividad del día compense el mal inicio.
+sentimiento_78:
+0.2
+
+Parrafo_79:
+El proyecto en el que he estado trabajando no avanza como esperaba, lo cual es desalentador. Pero una llamada de un viejo amigo me levantó el ánimo. Estoy agradecido por las pequeñas cosas que me mantienen a flote.
+sentimiento_79:
+0.25
+
+Parrafo_80:
+Aunque el día comenzó con algunas noticias preocupantes de la familia, pude desconectarme y disfrutar de un buen libro. Además, el hecho de que hoy sea viernes me anima bastante.
+sentimiento_80:
+0.2
+
+Parrafo_81:
+Me irrita que las cosas no estén saliendo como planeé, pero al menos tengo salud y un buen trabajo. Intento recordar que estas pequeñas frustraciones son temporales y manejables.
+sentimiento_81:
+-0.1
+
+Parrafo_82:
+Me siento un poco abrumado por todas las tareas pendientes, pero logré completar algunas importantes hoy. Una cena tranquila en casa es justo lo que necesito para recargar energías.
+sentimiento_82:
+0.15
+
+Parrafo_83:
+El encuentro con un viejo amigo fue agradable, aunque el lugar que escogimos estaba demasiado ruidoso. A pesar del ruido, pudimos ponernos al día y planear un próximo viaje juntos.
+sentimiento_83:
+0.3
+
+Parrafo_84:
+La falta de sueño ha afectado mi ánimo hoy, me siento más lento de lo usual. Aun así, una buena noticia en el trabajo me dio un impulso necesario. Espero poder descansar mejor esta noche.
+sentimiento_84:
+0.1
+
+Parrafo_85:
+Me frustra no poder encontrar la solución a un problema en el trabajo. Sin embargo, el apoyo de mis colegas ha sido reconfortante. Creo que con un poco más de tiempo, podré resolverlo.
+sentimiento_85:
+-0.2
+
+Parrafo_86:
+Aunque el día estuvo lleno de pequeños inconvenientes, una agradable sorpresa me esperaba al volver a casa: un paquete que había olvidado que había pedido. Pequeñas sorpresas como esta hacen que los días difíciles valgan la pena.
+sentimiento_86:
+0.35
+
+Parrafo_87:
+Me siento desilusionado por no haber alcanzado mis metas de ejercicio esta semana. Sin embargo, entiendo que la constancia es clave, y mañana es otro día para intentarlo. Al menos hoy comí saludable.
+sentimiento_87:
+-0.1
+
+Parrafo_88:
+Estoy algo decepcionado con mi rendimiento en la entrevista de hoy. Sin embargo, recibí algunos comentarios constructivos que sé que me ayudarán en el futuro. Me consuela saber que puedo mejorar.
+sentimiento_88:
+-0.25
+
+Parrafo_89:
+El día ha sido largo y cansado, pero una buena cena y el plan de ver mi serie favorita esta noche me mantienen de buen ánimo. Es importante encontrar momentos de relajación incluso en los días más ocupados.
+sentimiento_89:
+0.4
+
+Parrafo_90:
+Hoy me sentí algo solo, parece que todos están ocupados con sus vidas. Afortunadamente, un compañero de trabajo me invitó a un evento este fin de semana, lo cual mejora un poco mi perspectiva.
+sentimiento_90:
+-0.15
+
+Parrafo_91:
+La conferencia de hoy fue increíblemente enriquecedora y me siento inspirado por las charlas que escuché.
+sentimiento_91:
+0.85
+
+Parrafo_92:
+Me quedé atrapado en el tráfico durante horas, lo cual arruinó el resto de mi día.
+sentimiento_92:
+-0.7
+
+Parrafo_93:
+Disfruté de una tarde tranquila leyendo un libro en el parque bajo un árbol frondoso.
+sentimiento_93:
+0.75
+
+Parrafo_94:
+Me siento abrumado por la cantidad de trabajo que tengo que hacer antes del fin de semana.
+sentimiento_94:
+-0.6
+
+Parrafo_95:
+Hoy recibí un cumplido de mi jefe por mi desempeño en el trabajo, lo cual fue muy motivador.
+sentimiento_95:
+0.8
+
+Parrafo_96:
+Me siento decepcionado por haber perdido el concierto al que quería ir, las entradas se agotaron muy rápido.
+sentimiento_96:
+-0.5
+
+Parrafo_97:
+La reunión con los inversores fue mejor de lo esperado, ahora tengo esperanzas para el futuro de nuestro proyecto.
+sentimiento_97:
+0.7
+
+Parrafo_98:
+He estado sintiendo mucha ansiedad últimamente debido a las noticias constantemente negativas.
+sentimiento_98:
+-0.65
+
+Parrafo_99:
+Acabo de ver una película que me hizo reír a carcajadas, hacía mucho que no me divertía tanto.
+sentimiento_99:
+0.9
+
+Parrafo_100:
+Después de una larga semana de trabajo, me siento totalmente agotado física y mentalmente.
+sentimiento_100:
+-0.75
+
+Parrafo_101:
+La vida es dura y uno nunca aprenderá sobre la verdad de las cosas, todo es un misterio y el misterio una desgracia
+sentimiento_101:
+-0.69
+
+Parrafo_102:
+A veces siento que todo esfuerzo es en vano, que no importa cuánto luche, el final siempre será el mismo.
+sentimiento_102:
+-0.72
+
+Parrafo_103:
+La tristeza invade cada rincón de mi ser, como si la esperanza fuera solo una ilusión que nunca podré alcanzar.
+sentimiento_103:
+-0.85
+
+Parrafo_104:
+Por más que intente cambiar, el mundo sigue siendo oscuro y cruel, sin dejar lugar para la luz.
+sentimiento_104:
+-0.77
+
+Parrafo_105:
+Es difícil seguir adelante cuando cada día parece más vacío que el anterior, y la felicidad se convierte en un recuerdo distante.
+sentimiento_105:
+-0.81
+
+Parrafo_106:
+La soledad se siente como una sombra constante, abrazando cada parte de mi existencia sin darme tregua.
+sentimiento_106:
+-0.73
+
+Parrafo_107:
+El tiempo pasa y solo deja cicatrices, como si estuviera destinado a recordarme el dolor de mis fracasos.
+sentimiento_107:
+-0.78
+
+Parrafo_108:
+Cada paso que doy me lleva más lejos de lo que alguna vez soñé, dejando solo desilusión en mi camino.
+sentimiento_108:
+-0.74
+
+Parrafo_109:
+Es como si el universo conspirara en mi contra, transformando cada pequeña esperanza en una gran desilusión.
+sentimiento_109:
+-0.76
+
+Parrafo_110:
+La vida parece ser una prueba constante de resistencia, donde los sueños se desvanecen antes de siquiera intentarlos.
+sentimiento_110:
+-0.82
+
+Parrafo_111:
+He perdido la fe en todo lo que alguna vez me inspiró, ahora solo queda un vacío que nada puede llenar.
+sentimiento_111:
+-0.84
+
+Parrafo_112:
+El camino parece interminable y cada paso se vuelve más pesado, como si no hubiera un destino final.
+sentimiento_112:
+-0.75
+
+Parrafo_113:
+La esperanza se desvanece lentamente, dejándome atrapado en un ciclo de decepciones y amargura.
+sentimiento_113:
+-0.83
+
+Parrafo_114:
+Siento que el tiempo se escapa sin dejar nada significativo, como si todo fuera en vano.
+sentimiento_114:
+-0.71
+
+Parrafo_115:
+Cada vez que intento mejorar, algo me empuja de vuelta a la oscuridad de la incertidumbre.
+sentimiento_115:
+-0.76
+
+Parrafo_116:
+La paz parece un sueño distante, un lujo reservado para otros que nunca podré alcanzar.
+sentimiento_116:
+-0.80
+
+Parrafo_117:
+Es como si la felicidad estuviera siempre fuera de mi alcance, dejándome solo con un vacío interminable.
+sentimiento_117:
+-0.82
+
+Parrafo_118:
+Por mucho que trate de olvidar, el dolor sigue ahí, anclado en lo más profundo de mi ser.
+sentimiento_118:
+-0.78
+
+Parrafo_119:
+A veces me pregunto si todo esto tiene algún propósito o si simplemente estoy perdiendo el tiempo.
+sentimiento_119:
+-0.74
+
+Parrafo_120:
+El silencio me envuelve y me recuerda lo solo que estoy en este vasto mundo.
+sentimiento_120:
+-0.77
+
+Parrafo_121:
+Mi corazón se siente pesado, cargando con las cicatrices de todos los momentos de desilusión.
+sentimiento_121:
+-0.81
+
+Parrafo_122:
+Los días pasan y cada uno se siente igual de monótono y vacío que el anterior.
+sentimiento_122:
+-0.79
+
+Parrafo_123:
+Es frustrante ver cómo los sueños se desvanecen mientras la realidad me aplasta sin piedad.
+sentimiento_123:
+-0.85
+
+Parrafo_124:
+Siento que estoy atrapado en un ciclo de errores y arrepentimientos del que no puedo escapar.
+sentimiento_124:
+-0.82
+
+Parrafo_125:
+La tristeza se ha convertido en mi compañera constante, siguiéndome en cada paso que doy.
+sentimiento_125:
+-0.80
+
+Parrafo_126:
+La vida parece estar llena de promesas rotas y caminos sin salida.
+sentimiento_126:
+-0.78
+
+Parrafo_127:
+Es difícil confiar en el futuro cuando todo lo que veo es incertidumbre y desasosiego.
+sentimiento_127:
+-0.76
+
+Parrafo_128:
+Cada sonrisa se siente forzada, un intento desesperado por ocultar el dolor interior.
+sentimiento_128:
+-0.83
+
+Parrafo_129:
+He llegado a un punto en el que todo parece carecer de sentido, como si no hubiera un propósito real.
+sentimiento_129:
+-0.81
+
+Parrafo_130:
+La melancolía se ha instalado en mi corazón, convirtiendo cada recuerdo en un lamento.
+sentimiento_130:
+-0.84
+
+Parrafo_131:
+Es como si estuviera destinado a fracasar, sin importar cuánto lo intente o cuánto me esfuerce.
+sentimiento_131:
+-0.86
+
+Parrafo_132:
+El mundo sigue girando, pero siento que me he quedado estancado en el mismo lugar.
+sentimiento_132:
+-0.79
+
+Parrafo_133:
+Las noches son largas y solitarias, llenas de pensamientos que no puedo dejar de lado.
+sentimiento_133:
+-0.81
+
+Parrafo_134:
+Todo parece perdido, como si ya no hubiera ninguna razón para seguir adelante.
+sentimiento_134:
+-0.88
+
+Parrafo_135:
+Cada momento de felicidad es fugaz, rápidamente reemplazado por la dura realidad.
+sentimiento_135:
+-0.82
+
+Parrafo_136:
+Siento que no tengo control sobre mi vida, como si fuera un espectador en mi propia existencia.
+sentimiento_136:
+-0.77
+
+Parrafo_137:
+El futuro se siente sombrío y la luz al final del túnel parece una ilusión.
+sentimiento_137:
+-0.83
+
+Parrafo_138:
+Cada decisión que tomo parece llevarme más lejos de la paz que busco.
+sentimiento_138:
+-0.80
+
+Parrafo_139:
+La desilusión es constante, como si el mundo estuviera empeñado en decepcionarme.
+sentimiento_139:
+-0.84
+
+Parrafo_140:
+La soledad duele y cada día parece recordarme lo lejos que estoy de encontrar compañía.
+sentimiento_140:
+-0.79
+
+Parrafo_141:
+He dejado de esperar cosas buenas, porque cada vez que lo hago, termino herido.
+sentimiento_141:
+-0.86
+
+Parrafo_142:
+La vida se siente vacía, como una película en blanco y negro sin emoción alguna.
+sentimiento_142:
+-0.82
+
+Parrafo_143:
+Es agotador fingir que todo está bien cuando por dentro me siento roto.
+sentimiento_143:
+-0.84
+
+Parrafo_144:
+Los sueños que alguna vez tuve se han desvanecido, dejándome con nada más que arrepentimientos.
+sentimiento_144:
+-0.83
+
+Parrafo_145:
+La alegría parece ser una emoción que solo otros experimentan, mientras yo solo observo.
+sentimiento_145:
+-0.80
+
+Parrafo_146:
+Cada intento de mejorar termina en fracaso, como si estuviera condenado a esta vida de tristeza.
+sentimiento_146:
+-0.85
+
+Parrafo_147:
+Las palabras de ánimo se sienten vacías, como si ya no pudieran llegar a mi corazón.
+sentimiento_147:
+-0.78
+
+Parrafo_148:
+Todo lo que construyo parece desmoronarse al poco tiempo, dejándome en ruinas.
+sentimiento_148:
+-0.87
+
+Parrafo_149:
+La felicidad parece ser solo un recuerdo distante, algo que ya no me pertenece.
+sentimiento_149:
+-0.84
+
+Parrafo_150:
+Es difícil creer en algo cuando todo a mi alrededor se desmorona lentamente.
+sentimiento_150:
+-0.81
+
+Parrafo_151:
+A veces pienso que la vida está hecha solo de decepciones y falsos comienzos.
+sentimiento_151:
+-0.83
+
+Parrafo_152:
+Cada mañana se siente como un peso más que debo cargar, sin saber por qué.
+sentimiento_152:
+-0.77
+
+Parrafo_153:
+He perdido la motivación para seguir adelante, como si mi espíritu estuviera roto.
+sentimiento_153:
+-0.82
+
+Parrafo_154:
+El mundo parece indiferente a mi dolor, avanzando sin detenerse a mirar.
+sentimiento_154:
+-0.80
+
+Parrafo_155:
+Es como si mis esfuerzos no valieran nada, dejando solo el eco de mis fracasos.
+sentimiento_155:
+-0.84
+
+Parrafo_156:
+A pesar de todo, sigo esperando algo que quizá nunca llegará.
+sentimiento_156:
+-0.78
+
+Parrafo_157:
+Los días se vuelven borrosos, mezclándose en una monotonía interminable.
+sentimiento_157:
+-0.79
+
+Parrafo_158:
+Cada recuerdo feliz ahora duele, recordándome lo lejos que estoy de esos momentos.
+sentimiento_158:
+-0.85
+
+Parrafo_159:
+La esperanza se convierte en una carga, algo que solo aumenta el dolor.
+sentimiento_159:
+-0.82
+
+Parrafo_160:
+Es difícil ver la belleza en el mundo cuando la tristeza cubre cada rincón de mi vida.
+sentimiento_160:
+-0.83
+
+Parrafo_161:
+Hoy siento que el esfuerzo y la perseverancia me están llevando a lugares increíbles.
+sentimiento_161:
+0.76
+
+Parrafo_162:
+La vida es un continuo aprendizaje, y cada día trae una nueva oportunidad.
+sentimiento_162:
+0.68
+
+Parrafo_163:
+Agradezco por cada pequeña alegría que me encuentro en el camino.
+sentimiento_163:
+0.81
+
+Parrafo_164:
+Estoy en paz conmigo mismo, aceptando mis errores y valorando mis logros.
+sentimiento_164:
+0.72
+
+Parrafo_165:
+El mundo es un lugar lleno de maravillas y estoy aquí para explorarlas todas.
+sentimiento_165:
+0.79
+
+Parrafo_166:
+Cada paso me acerca más a mis sueños y eso me llena de entusiasmo.
+sentimiento_166:
+0.84
+
+Parrafo_167:
+Aprecio las pequeñas cosas de la vida, desde un buen café hasta una sonrisa.
+sentimiento_167:
+0.75
+
+Parrafo_168:
+Hoy me siento motivado y lleno de energía para enfrentar cualquier desafío.
+sentimiento_168:
+0.80
+
+Parrafo_169:
+La gratitud es la clave de la felicidad, y hoy tengo mucho por lo cual agradecer.
+sentimiento_169:
+0.82
+
+Parrafo_170:
+Estoy rodeado de personas que me inspiran y me impulsan a ser mejor.
+sentimiento_170:
+0.78
+
+Parrafo_171:
+Cada día es una nueva página en mi vida, llena de posibilidades.
+sentimiento_171:
+0.70
+
+Parrafo_172:
+No tengo prisa, disfruto del momento presente y de lo que me ofrece.
+sentimiento_172:
+0.74
+
+Parrafo_173:
+La vida es un regalo y trato de aprovechar cada momento.
+sentimiento_173:
+0.77
+
+Parrafo_174:
+Amo lo que hago y eso me da fuerzas para seguir adelante.
+sentimiento_174:
+0.85
+
+Parrafo_175:
+Las dificultades son oportunidades para aprender y mejorar.
+sentimiento_175:
+0.73
+
+Parrafo_176:
+Estoy agradecido por las lecciones que la vida me ha enseñado.
+sentimiento_176:
+0.76
+
+Parrafo_177:
+Cada día es una oportunidad para ser una mejor versión de mí mismo.
+sentimiento_177:
+0.79
+
+Parrafo_178:
+La tranquilidad y el equilibrio son mi objetivo en cada aspecto de mi vida.
+sentimiento_178:
+0.71
+
+Parrafo_179:
+Hoy tengo la mente clara y el corazón abierto a nuevas experiencias.
+sentimiento_179:
+0.83
+
+Parrafo_180:
+La paz y el amor guían mis decisiones, llenando mi vida de armonía.
+sentimiento_180:
+0.86
+
+Parrafo_181:
+Confío en el proceso de la vida y en que todo sucede por una razón.
+sentimiento_181:
+0.80
+
+Parrafo_182:
+Siento que estoy exactamente donde debo estar en este momento.
+sentimiento_182:
+0.78
+
+Parrafo_183:
+La esperanza y la confianza me acompañan en cada paso que doy.
+sentimiento_183:
+0.81
+
+Parrafo_184:
+Cada logro, por pequeño que sea, merece ser celebrado.
+sentimiento_184:
+0.74
+
+Parrafo_185:
+El amor propio es mi mayor fortaleza y lo cultivo día a día.
+sentimiento_185:
+0.82
+
+Parrafo_186:
+He aprendido a soltar lo que no puedo controlar y enfocarme en lo que sí.
+sentimiento_186:
+0.72
+
+Parrafo_187:
+La serenidad y la paciencia son mis mejores aliadas en los momentos difíciles.
+sentimiento_187:
+0.70
+
+Parrafo_188:
+Hoy es un buen día para empezar nuevos proyectos y explorar mis talentos.
+sentimiento_188:
+0.77
+
+Parrafo_189:
+Las amistades verdaderas son un tesoro y me siento afortunado por tenerlas.
+sentimiento_189:
+0.79
+
+Parrafo_190:
+Agradezco cada momento de paz y tranquilidad que encuentro en mi día.
+sentimiento_190:
+0.73
+
+Parrafo_191:
+Las experiencias me han hecho más fuerte y hoy abrazo mi historia.
+sentimiento_191:
+0.75
+
+Parrafo_192:
+Cada obstáculo superado me recuerda lo capaz que soy.
+sentimiento_192:
+0.78
+
+Parrafo_193:
+La felicidad está en las pequeñas cosas, y eso es lo que me hace sonreír.
+sentimiento_193:
+0.81
+
+Parrafo_194:
+Hoy elijo la calma, la gratitud y el amor como mi guía.
+sentimiento_194:
+0.84
+
+Parrafo_195:
+Vivir el presente es mi prioridad y hoy lo hago con una sonrisa.
+sentimiento_195:
+0.74
+
+Parrafo_196:
+Mi mente está llena de ideas y mi corazón lleno de entusiasmo.
+sentimiento_196:
+0.76
+
+Parrafo_197:
+Estoy agradecido por la salud, el amor y la paz en mi vida.
+sentimiento_197:
+0.80
+
+Parrafo_198:
+La vida es un viaje y hoy decido disfrutar cada paso del camino.
+sentimiento_198:
+0.77
+
+Parrafo_199:
+Los cambios me asustan, pero también me emocionan y me motivan.
+sentimiento_199:
+0.70
+
+Parrafo_200:
+Aprecio los momentos de soledad, son oportunidades para conocerme mejor.
+sentimiento_200:
+0.68
+
+Parrafo_201:
+Cada día es un nuevo comienzo, una nueva oportunidad de mejorar.
+sentimiento_201:
+0.71
+
+Parrafo_202:
+Hoy siento una gran paz interior y eso me da fuerzas para avanzar.
+sentimiento_202:
+0.73
+
+Parrafo_203:
+La paciencia y la constancia son las llaves de mi progreso.
+sentimiento_203:
+0.69
+
+Parrafo_204:
+Es un placer compartir mi tiempo con quienes me valoran y apoyan.
+sentimiento_204:
+0.79
+
+Parrafo_205:
+Estoy en un proceso de crecimiento y cada día doy un paso más.
+sentimiento_205:
+0.74
+
+Parrafo_206:
+La vida es un reto que enfrento con optimismo y gratitud.
+sentimiento_206:
+0.81
+
+Parrafo_207:
+El presente es un regalo y cada día lo recibo con alegría.
+sentimiento_207:
+0.76
+
+Parrafo_208:
+Me siento satisfecho con lo que tengo y ansioso por lo que vendrá.
+sentimiento_208:
+0.68
+
+Parrafo_209:
+Hoy valoro cada momento y aprecio el simple hecho de estar vivo.
+sentimiento_209:
+0.75
+
+Parrafo_210:
+La calma que siento hoy me recuerda que todo estará bien.
+sentimiento_210:
+0.72
+
+Parrafo_211:
+Hoy todo parece simplemente normal, sin nada especial ni emocionante.
+sentimiento_211:
+-0.05
+
+Parrafo_212:
+Es uno de esos días donde no pasa nada fuera de lo común, solo rutina.
+sentimiento_212:
+-0.02
+
+Parrafo_213:
+No siento ni alegría ni tristeza, solo un vacío neutral que no termina.
+sentimiento_213:
+-0.07
+
+Parrafo_214:
+Es como si el tiempo pasara sin dejar rastro, sin emociones profundas.
+sentimiento_214:
+-0.03
+
+Parrafo_215:
+Mi entusiasmo es casi nulo, como si nada lograra captar mi atención.
+sentimiento_215:
+-0.08
+
+Parrafo_216:
+Hoy no espero mucho, solo otro día igual que los demás.
+sentimiento_216:
+-0.04
+
+Parrafo_217:
+La indiferencia se ha apoderado de mí, y todo parece igual.
+sentimiento_217:
+-0.06
+
+Parrafo_218:
+Es difícil sentir emoción por algo cuando todo parece tan común.
+sentimiento_218:
+-0.09
+
+Parrafo_219:
+No estoy ni bien ni mal, solo existo en este momento.
+sentimiento_219:
+-0.01
+
+Parrafo_220:
+Siento una falta de motivación que no es tristeza, solo vacío.
+sentimiento_220:
+-0.05
+
+Parrafo_221:
+Todo parece perder su importancia y nada llama realmente mi atención.
+sentimiento_221:
+-0.08
+
+Parrafo_222:
+Las cosas simplemente son, sin mucho sentido ni propósito aparente.
+sentimiento_222:
+-0.06
+
+Parrafo_223:
+No hay nada especialmente bueno ni malo, solo la monotonía de siempre.
+sentimiento_223:
+-0.04
+
+Parrafo_224:
+Es como si estuviera en piloto automático, avanzando sin rumbo.
+sentimiento_224:
+-0.07
+
+Parrafo_225:
+Hoy el mundo se ve gris, sin altos ni bajos, solo la misma rutina.
+sentimiento_225:
+-0.03
+
+Parrafo_226:
+Estoy aquí, sin mucho que decir, sin muchas ganas de hacer nada.
+sentimiento_226:
+-0.05
+
+Parrafo_227:
+Es difícil encontrar algo que realmente me importe en este momento.
+sentimiento_227:
+-0.09
+
+Parrafo_228:
+Cada día se parece al anterior, sin nada que lo haga especial.
+sentimiento_228:
+-0.04
+
+Parrafo_229:
+No encuentro una razón para entusiasmarme ni preocuparme.
+sentimiento_229:
+-0.02
+
+Parrafo_230:
+La apatía se siente como una manta que cubre todo a mi alrededor.
+sentimiento_230:
+-0.07
+
+Parrafo_231:
+Hoy es solo un día más que pasa sin dejar huella.
+sentimiento_231:
+-0.03
+
+Parrafo_232:
+No tengo expectativas, solo dejo que el día pase como venga.
+sentimiento_232:
+-0.01
+
+Parrafo_233:
+Es uno de esos días donde la motivación está en su punto más bajo.
+sentimiento_233:
+-0.06
+
+Parrafo_234:
+La vida sigue, aunque a veces parece que no lleva a ningún lado.
+sentimiento_234:
+-0.05
+
+Parrafo_235:
+No siento nada en particular, solo el pasar de las horas.
+sentimiento_235:
+-0.02
+
+Parrafo_236:
+No tengo grandes emociones, solo la simple existencia de un día más.
+sentimiento_236:
+-0.04
+
+Parrafo_237:
+Hoy me siento neutral, ni bien ni mal, solo aquí.
+sentimiento_237:
+-0.01
+
+Parrafo_238:
+Es difícil entusiasmarme cuando todo parece tan normal y repetitivo.
+sentimiento_238:
+-0.08
+
+Parrafo_239:
+No espero nada especial de este día, solo seguir como siempre.
+sentimiento_239:
+-0.03
+
+Parrafo_240:
+Nada parece sorprenderme, todo parece predecible.
+sentimiento_240:
+-0.07
+
+Parrafo_241:
+Hoy es solo otro día sin mucho que ofrecerme.
+sentimiento_241:
+-0.04
+
+Parrafo_242:
+La falta de emoción a veces es casi tan pesada como la tristeza.
+sentimiento_242:
+-0.09
+
+Parrafo_243:
+No es que esté mal, simplemente no siento nada.
+sentimiento_243:
+-0.02
+
+Parrafo_244:
+Hoy me siento desconectado, como si nada realmente importara.
+sentimiento_244:
+-0.06
+
+Parrafo_245:
+Es difícil sentirse motivado cuando nada parece cambiar.
+sentimiento_245:
+-0.05
+
+Parrafo_246:
+La rutina se ha vuelto parte de mí y apenas la noto.
+sentimiento_246:
+-0.04
+
+Parrafo_247:
+A veces todo parece vacío, sin propósito ni emoción.
+sentimiento_247:
+-0.08
+
+Parrafo_248:
+Es uno de esos días donde no tengo ganas de hacer nada en especial.
+sentimiento_248:
+-0.03
+
+Parrafo_249:
+Me siento indiferente ante todo lo que sucede a mi alrededor.
+sentimiento_249:
+-0.07
+
+Parrafo_250:
+Hoy no tengo interés en mucho, solo dejo que el tiempo pase.
+sentimiento_250:
+-0.02
+
+Parrafo_251:
+Es como si estuviera aquí pero no realmente presente.
+sentimiento_251:
+-0.06
+
+Parrafo_252:
+No me siento ni triste ni feliz, solo sin emociones.
+sentimiento_252:
+-0.01
+
+Parrafo_253:
+La vida sigue su curso sin mucha emoción de mi parte.
+sentimiento_253:
+-0.05
+
+Parrafo_254:
+Hoy todo parece plano, sin altos ni bajos, solo sigue.
+sentimiento_254:
+-0.04
+
+Parrafo_255:
+Es difícil entusiasmarme cuando todo parece tan predecible.
+sentimiento_255:
+-0.08
+
+Parrafo_256:
+No tengo un propósito claro hoy, solo sigo la rutina de siempre.
+sentimiento_256:
+-0.06
+
+Parrafo_257:
+Me siento apagado, sin mucho interés en lo que me rodea.
+sentimiento_257:
+-0.09
+
+Parrafo_258:
+Hoy no tengo una razón para sonreír ni para estar triste, solo estoy aquí.
+sentimiento_258:
+-0.03
+
+Parrafo_259:
+Nada me inspira especialmente hoy, todo parece tan común.
+sentimiento_259:
+-0.05
+
+Parrafo_260:
+Es uno de esos días donde la motivación parece haberse esfumado.
+sentimiento_260:
+-0.07
+
+Parrafo_261:
+Hoy me siento bien, sin nada extraordinario, pero en paz.
+sentimiento_261:
+0.05
+
+Parrafo_262:
+La rutina de hoy ha sido tranquila, sin sobresaltos, y eso está bien.
+sentimiento_262:
+0.04
+
+Parrafo_263:
+Estoy agradecido por los momentos sencillos, aunque no sean muy especiales.
+sentimiento_263:
+0.06
+
+Parrafo_264:
+Siento una calma ligera, un día sin preocupaciones importantes.
+sentimiento_264:
+0.03
+
+Parrafo_265:
+Hoy es un buen día sin ser extraordinario, y eso me parece agradable.
+sentimiento_265:
+0.07
+
+Parrafo_266:
+La serenidad de este día me hace sentir en paz conmigo mismo.
+sentimiento_266:
+0.04
+
+Parrafo_267:
+Disfruto de los pequeños momentos de tranquilidad sin esperar mucho más.
+sentimiento_267:
+0.05
+
+Parrafo_268:
+Hoy me siento neutral, pero satisfecho con lo que tengo.
+sentimiento_268:
+0.02
+
+Parrafo_269:
+Es un día común, pero siento un ligero optimismo en el aire.
+sentimiento_269:
+0.06
+
+Parrafo_270:
+Sin grandes emociones, solo una calma que resulta reconfortante.
+sentimiento_270:
+0.03
+
+Parrafo_271:
+Siento un poco de gratitud por las pequeñas cosas de la vida.
+sentimiento_271:
+0.05
+
+Parrafo_272:
+Hoy tengo una sensación leve de bienestar, sin grandes emociones.
+sentimiento_272:
+0.04
+
+Parrafo_273:
+Es un día simple, pero eso me da cierta paz interior.
+sentimiento_273:
+0.06
+
+Parrafo_274:
+No espero grandes cosas hoy, y eso me da una sensación de tranquilidad.
+sentimiento_274:
+0.02
+
+Parrafo_275:
+La simplicidad de hoy me resulta agradable, sin ser especialmente emocionante.
+sentimiento_275:
+0.03
+
+Parrafo_276:
+Tengo una sensación leve de satisfacción por las pequeñas cosas de hoy.
+sentimiento_276:
+0.05
+
+Parrafo_277:
+Hoy todo está en equilibrio, un día sin mucho, pero en paz.
+sentimiento_277:
+0.04
+
+Parrafo_278:
+Es un día tranquilo y eso me da una pequeña sensación de comodidad.
+sentimiento_278:
+0.03
+
+Parrafo_279:
+Siento una ligera alegría por lo ordinario de este día.
+sentimiento_279:
+0.06
+
+Parrafo_280:
+Sin mucho por esperar, solo una pequeña satisfacción en lo cotidiano.
+sentimiento_280:
+0.05
+
+Parrafo_281:
+La serenidad de este día es un cambio agradable, aunque no muy intenso.
+sentimiento_281:
+0.04
+
+Parrafo_282:
+Hoy me siento levemente positivo, sin grandes emociones, pero en paz.
+sentimiento_282:
+0.02
+
+Parrafo_283:
+Disfruto de lo sencillo hoy, sin esperar nada fuera de lo normal.
+sentimiento_283:
+0.03
+
+Parrafo_284:
+Es un día común, pero siento una leve gratitud por ello.
+sentimiento_284:
+0.05
+
+Parrafo_285:
+Hoy me siento bien con la simplicidad de todo, sin emociones intensas.
+sentimiento_285:
+0.04
+
+Parrafo_286:
+Hay un toque de satisfacción en lo cotidiano de hoy, y eso me agrada.
+sentimiento_286:
+0.06
+
+Parrafo_287:
+No tengo expectativas hoy, solo un leve bienestar que es suficiente.
+sentimiento_287:
+0.03
+
+Parrafo_288:
+Aprecio la tranquilidad de hoy, sin ser un día especialmente emocionante.
+sentimiento_288:
+0.04
+
+Parrafo_289:
+Siento un poco de gratitud por este día normal y sin estrés.
+sentimiento_289:
+0.05
+
+Parrafo_290:
+Es uno de esos días donde la calma es todo lo que necesito.
+sentimiento_290:
+0.03
+
+Parrafo_291:
+La simplicidad de hoy me resulta reconfortante, sin grandes emociones.
+sentimiento_291:
+0.02
+
+Parrafo_292:
+Hoy siento una paz ligera, un día sin grandes sobresaltos.
+sentimiento_292:
+0.04
+
+Parrafo_293:
+Es un día normal, pero eso en sí mismo me trae un poco de alegría.
+sentimiento_293:
+0.05
+
+Parrafo_294:
+Sin esperar nada especial, me siento bien con lo que hay.
+sentimiento_294:
+0.02
+
+Parrafo_295:
+Hoy estoy en paz con lo que tengo, aunque sea un día simple.
+sentimiento_295:
+0.04
+
+Parrafo_296:
+La tranquilidad de este día normal me resulta agradable.
+sentimiento_296:
+0.03
+
+Parrafo_297:
+Hoy es un buen día sin sorpresas, solo la paz de lo cotidiano.
+sentimiento_297:
+0.05
+
+Parrafo_298:
+Sin nada especial, siento una leve satisfacción en la rutina de hoy.
+sentimiento_298:
+0.04
+
+Parrafo_299:
+Me agrada la calma que este día sencillo me ha brindado.
+sentimiento_299:
+0.03
+
+Parrafo_300:
+Siento una pequeña gratitud por este día sin complicaciones.
+sentimiento_300:
+0.06
+
+Parrafo_301:
+Hoy no hay grandes emociones, pero me siento en equilibrio.
+sentimiento_301:
+0.02
+
+Parrafo_302:
+La tranquilidad de hoy me hace sentir levemente optimista.
+sentimiento_302:
+0.05
+
+Parrafo_303:
+Es un día simple, y eso en sí mismo me da una pequeña alegría.
+sentimiento_303:
+0.03
+
+Parrafo_304:
+Me siento bien con la rutina de hoy, sin esperar más.
+sentimiento_304:
+0.04
+
+Parrafo_305:
+Aprecio la calma de hoy, sin emociones fuertes, pero suficiente.
+sentimiento_305:
+0.02
+
+Parrafo_306:
+Hoy es solo un día normal, pero me trae un poco de serenidad.
+sentimiento_306:
+0.05
+
+Parrafo_307:
+La paz de hoy me hace sentir bien, aunque sea solo un poco.
+sentimiento_307:
+0.03
+
+Parrafo_308:
+No hay grandes emociones hoy, solo una calma que agradezco.
+sentimiento_308:
+0.04
+
+Parrafo_309:
+Es un día simple, y eso en sí me trae una pequeña satisfacción.
+sentimiento_309:
+0.05
+
+Parrafo_310:
+Hoy me siento tranquilo y eso me resulta suficiente.
+sentimiento_310:
+0.02
+
+Parrafo_311:
+Hoy me siento satisfecho con lo que he logrado, aunque todavía tengo mucho por hacer.
+sentimiento_311:
+0.55
+
+Parrafo_312:
+Es un día productivo, me siento bien con cada pequeña tarea que completo.
+sentimiento_312:
+0.42
+
+Parrafo_313:
+Aprecio el progreso que estoy haciendo, aunque sea lento.
+sentimiento_313:
+0.38
+
+Parrafo_314:
+La tranquilidad de hoy me hace sentir agradecido y en paz.
+sentimiento_314:
+0.52
+
+Parrafo_315:
+Me siento animado por los pequeños avances que logré hoy.
+sentimiento_315:
+0.47
+
+Parrafo_316:
+Hoy tengo una calma interior que me da fuerzas para seguir.
+sentimiento_316:
+0.43
+
+Parrafo_317:
+Las cosas están saliendo bien y eso me da una satisfacción ligera.
+sentimiento_317:
+0.44
+
+Parrafo_318:
+Siento una gratitud genuina por lo que tengo en mi vida.
+sentimiento_318:
+0.58
+
+Parrafo_319:
+Es un buen día, me siento cómodo y contento con lo que hago.
+sentimiento_319:
+0.53
+
+Parrafo_320:
+Hoy tengo la mente clara y el ánimo positivo para enfrentar los retos.
+sentimiento_320:
+0.49
+
+Parrafo_321:
+Es un día tranquilo y eso me llena de una calma muy agradable.
+sentimiento_321:
+0.36
+
+Parrafo_322:
+Hoy me siento inspirado, aunque sea solo un poco.
+sentimiento_322:
+0.33
+
+Parrafo_323:
+Aprecio el equilibrio de este día, sin altos ni bajos extremos.
+sentimiento_323:
+0.40
+
+Parrafo_324:
+Me siento cómodo con mi ritmo hoy, avanzando poco a poco.
+sentimiento_324:
+0.45
+
+Parrafo_325:
+Estoy contento con lo que he hecho hoy, aunque sea una pequeña parte de mis metas.
+sentimiento_325:
+0.41
+
+Parrafo_326:
+La paz que siento hoy me da energía para seguir adelante.
+sentimiento_326:
+0.52
+
+Parrafo_327:
+Me siento agradecido por las personas que me rodean y me apoyan.
+sentimiento_327:
+0.57
+
+Parrafo_328:
+Es un día común, pero me siento en sintonía con mi entorno.
+sentimiento_328:
+0.29
+
+Parrafo_329:
+La simplicidad de hoy me trae una satisfacción genuina.
+sentimiento_329:
+0.32
+
+Parrafo_330:
+Siento un leve entusiasmo por las pequeñas cosas que están funcionando.
+sentimiento_330:
+0.42
+
+Parrafo_331:
+Estoy feliz de poder trabajar en mis metas, aunque sea a mi propio ritmo.
+sentimiento_331:
+0.56
+
+Parrafo_332:
+La paz y la tranquilidad de hoy me hacen sentir bien conmigo mismo.
+sentimiento_332:
+0.50
+
+Parrafo_333:
+Hoy estoy en equilibrio, lo que me da un sentido de armonía.
+sentimiento_333:
+0.34
+
+Parrafo_334:
+Aprecio los logros pequeños que suman a mis metas más grandes.
+sentimiento_334:
+0.39
+
+Parrafo_335:
+Hoy tengo una actitud positiva, aunque los retos no han desaparecido.
+sentimiento_335:
+0.46
+
+Parrafo_336:
+Me siento agradecido por la serenidad que estoy experimentando hoy.
+sentimiento_336:
+0.54
+
+Parrafo_337:
+Es un día sencillo, pero eso me da una pequeña alegría interior.
+sentimiento_337:
+0.35
+
+Parrafo_338:
+Siento que voy por el camino correcto, aunque todavía falte mucho.
+sentimiento_338:
+0.51
+
+Parrafo_339:
+Estoy en paz con mi vida y eso me da una sensación de estabilidad.
+sentimiento_339:
+0.48
+
+Parrafo_340:
+Hoy agradezco los momentos de calma, son exactamente lo que necesito.
+sentimiento_340:
+0.38
+
+Parrafo_341:
+Siento una pequeña satisfacción al ver que mis esfuerzos están dando frutos.
+sentimiento_341:
+0.44
+
+Parrafo_342:
+Es uno de esos días donde me siento en sintonía con lo que hago.
+sentimiento_342:
+0.33
+
+Parrafo_343:
+La vida no es perfecta, pero hoy siento que es suficiente para ser feliz.
+sentimiento_343:
+0.55
+
+Parrafo_344:
+Me siento tranquilo y agradecido por lo que tengo.
+sentimiento_344:
+0.53
+
+Parrafo_345:
+Es un día bueno, lleno de pequeñas razones para estar contento.
+sentimiento_345:
+0.46
+
+Parrafo_346:
+La satisfacción de hoy es ligera, pero es genuina y agradable.
+sentimiento_346:
+0.30
+
+Parrafo_347:
+Siento un pequeño impulso de alegría al ver cómo las cosas están avanzando.
+sentimiento_347:
+0.42
+
+Parrafo_348:
+Hoy me siento centrado y en paz conmigo mismo.
+sentimiento_348:
+0.50
+
+Parrafo_349:
+Es un buen día para avanzar en mis proyectos con calma.
+sentimiento_349:
+0.37
+
+Parrafo_350:
+Siento una paz ligera y muy agradable, es todo lo que necesito.
+sentimiento_350:
+0.31
+
+Parrafo_351:
+Estoy contento con los pequeños pasos que di hoy, cada uno suma.
+sentimiento_351:
+0.43
+
+Parrafo_352:
+Me siento inspirado por las pequeñas victorias de hoy.
+sentimiento_352:
+0.52
+
+Parrafo_353:
+Es un día tranquilo y eso me da una satisfacción suave pero duradera.
+sentimiento_353:
+0.36
+
+Parrafo_354:
+Hoy tengo un optimismo moderado, suficiente para seguir avanzando.
+sentimiento_354:
+0.39
+
+Parrafo_355:
+Me siento en paz con las decisiones que he tomado hoy.
+sentimiento_355:
+0.45
+
+Parrafo_356:
+Aprecio cada momento de calma de este día.
+sentimiento_356:
+0.32
+
+Parrafo_357:
+Hoy estoy motivado de una manera tranquila, pero constante.
+sentimiento_357:
+0.42
+
+Parrafo_358:
+Siento un agradecimiento sincero por este día sencillo pero positivo.
+sentimiento_358:
+0.47
+
+Parrafo_359:
+Me siento satisfecho con lo que he logrado hoy, aunque no sea mucho.
+sentimiento_359:
+0.41
+
+Parrafo_360:
+Es uno de esos días donde todo parece estar en equilibrio.
+sentimiento_360:
+0.35
+
+Parrafo_361:
+Hoy ha sido un día como cualquier otro, sin nada fuera de lo común.
+sentimiento_361:
+0.0
+
+Parrafo_362:
+No tengo emociones fuertes sobre cómo ha transcurrido el día.
+sentimiento_362:
+0.0
+
+Parrafo_363:
+Hoy ha sido un día neutral, sin eventos especiales que destacar.
+sentimiento_363:
+0.0
+
+Parrafo_364:
+Es solo un día más en la semana, sin nada que resaltar.
+sentimiento_364:
+0.0
+
+Parrafo_365:
+Hoy todo ha sido bastante ordinario, sin altos ni bajos.
+sentimiento_365:
+0.0
+
+Parrafo_366:
+No siento ni felicidad ni tristeza, solo ha sido un día común.
+sentimiento_366:
+0.0
+
+Parrafo_367:
+La jornada de hoy ha sido tranquila, sin emociones particulares.
+sentimiento_367:
+0.0
+
+Parrafo_368:
+No tengo opiniones fuertes sobre cómo fue el día de hoy.
+sentimiento_368:
+0.0
+
+Parrafo_369:
+Ha sido un día como cualquier otro, sin cambios notables.
+sentimiento_369:
+0.0
+
+Parrafo_370:
+Hoy no ocurrió nada que haya cambiado mi estado de ánimo.
+sentimiento_370:
+0.0
+
+Parrafo_371:
+Es solo un día ordinario, sin emociones intensas de ningún tipo.
+sentimiento_371:
+0.0
+
+Parrafo_372:
+No siento nada en particular sobre este día, solo ha pasado.
+sentimiento_372:
+0.0
+
+Parrafo_373:
+Ha sido un día sin sobresaltos, bastante neutral en general.
+sentimiento_373:
+0.0
+
+Parrafo_374:
+Hoy todo ha seguido su curso normal, sin novedades.
+sentimiento_374:
+0.0
+
+Parrafo_375:
+Es solo otro día, nada especial ni distinto.
+sentimiento_375:
+0.0
+
+Parrafo_376:
+No tengo nada en particular que comentar sobre el día de hoy.
+sentimiento_376:
+0.0
+
+Parrafo_377:
+Ha sido un día más, sin emociones positivas ni negativas.
+sentimiento_377:
+0.0
+
+Parrafo_378:
+Hoy ha sido bastante normal, sin nada que me afecte.
+sentimiento_378:
+0.0
+
+Parrafo_379:
+No tengo sentimientos especiales sobre el transcurso del día.
+sentimiento_379:
+0.0
+
+Parrafo_380:
+Ha sido un día regular, sin ningún cambio notable en mi ánimo.
+sentimiento_380:
+0.0
+
+Parrafo_381:
+No hay mucho que decir sobre hoy, solo ha pasado como cualquier otro día.
+sentimiento_381:
+0.0
+
+Parrafo_382:
+Hoy no ha sido ni bueno ni malo, solo un día más.
+sentimiento_382:
+0.0
+
+Parrafo_383:
+Mi estado de ánimo ha sido estable y neutral durante el día.
+sentimiento_383:
+0.0
+
+Parrafo_384:
+Nada fuera de lo común ha ocurrido hoy, solo fue un día tranquilo.
+sentimiento_384:
+0.0
+
+Parrafo_385:
+Ha sido un día sin grandes eventos ni emociones destacables.
+sentimiento_385:
+0.0
+
+Parrafo_386:
+Hoy no ha habido nada que altere mi tranquilidad, todo ha sido normal.
+sentimiento_386:
+0.0
+
+Parrafo_387:
+Es solo otro día de la semana, sin nada particularmente interesante.
+sentimiento_387:
+0.0
+
+Parrafo_388:
+Hoy no siento ninguna emoción fuerte, solo una calma neutral.
+sentimiento_388:
+0.0
+
+Parrafo_389:
+Es un día ordinario, sin experiencias especiales que recordar.
+sentimiento_389:
+0.0
+
+Parrafo_390:
+No tengo nada especial que decir sobre el día de hoy, ha sido neutro.
+sentimiento_390:
+0.0
+
+Parrafo_391:
+Hoy ha transcurrido de forma tranquila y sin emociones destacables.
+sentimiento_391:
+0.0
+
+Parrafo_392:
+Es solo un día como cualquier otro, sin eventos emocionales.
+sentimiento_392:
+0.0
+
+Parrafo_393:
+Hoy no ha habido emociones que marquen el día, ha sido neutro.
+sentimiento_393:
+0.0
+
+Parrafo_394:
+Ha sido un día sin altos ni bajos, bastante plano en cuanto a emociones.
+sentimiento_394:
+0.0
+
+Parrafo_395:
+No siento ninguna emoción especial sobre este día.
+sentimiento_395:
+0.0
+
+Parrafo_396:
+Hoy ha sido un día sin mucho que destacar, bastante neutral.
+sentimiento_396:
+0.0
+
+Parrafo_397:
+No tengo ninguna opinión fuerte sobre este día, solo ha sido uno más.
+sentimiento_397:
+0.0
+
+Parrafo_398:
+Ha sido una jornada normal, sin emociones sobresalientes.
+sentimiento_398:
+0.0
+
+Parrafo_399:
+Hoy no fue un día especialmente memorable, solo ha pasado.
+sentimiento_399:
+0.0
+
+Parrafo_400:
+Es uno de esos días donde nada cambia, todo permanece igual.
+sentimiento_400:
+0.0
+
+Parrafo_401:
+No tengo ninguna emoción particular sobre el día de hoy.
+sentimiento_401:
+0.0
+
+Parrafo_402:
+Hoy ha sido un día tranquilo, sin cambios en mi estado de ánimo.
+sentimiento_402:
+0.0
+
+Parrafo_403:
+No hay nada relevante que mencionar sobre este día, fue neutral.
+sentimiento_403:
+0.0
+
+Parrafo_404:
+Hoy ha sido un día sin novedades ni emociones fuertes.
+sentimiento_404:
+0.0
+
+Parrafo_405:
+Es solo un día más, sin emociones que resalten.
+sentimiento_405:
+0.0
+
+Parrafo_406:
+Hoy no siento nada fuera de lo común, solo tranquilidad.
+sentimiento_406:
+0.0
+
+Parrafo_407:
+Ha sido un día sin grandes emociones, bastante calmado.
+sentimiento_407:
+0.0
+
+Parrafo_408:
+Es un día normal, sin emociones ni experiencias fuera de lo común.
+sentimiento_408:
+0.0
+
+Parrafo_409:
+Hoy no ha sido un día especialmente emocionante, solo tranquilo.
+sentimiento_409:
+0.0
+
+Parrafo_410:
+No tengo ninguna emoción marcada sobre hoy, ha sido un día equilibrado.
+sentimiento_410:
+0.0
+
+Parrafo_411:
+Hoy fui al supermercado y compré algunos productos.
+sentimiento_411:
+0.0
+
+Parrafo_412:
+Leí un capítulo de mi libro esta mañana.
+sentimiento_412:
+0.0
+
+Parrafo_413:
+Caminé por el parque durante unos minutos.
+sentimiento_413:
+0.0
+
+Parrafo_414:
+Organicé los papeles en mi escritorio.
+sentimiento_414:
+0.0
+
+Parrafo_415:
+Llamé para confirmar una cita médica.
+sentimiento_415:
+0.0
+
+Parrafo_416:
+Preparé el almuerzo y lo comí en casa.
+sentimiento_416:
+0.0
+
+Parrafo_417:
+Hoy atendí algunas llamadas de trabajo.
+sentimiento_417:
+0.0
+
+Parrafo_418:
+Terminé un informe y lo envié por correo electrónico.
+sentimiento_418:
+0.0
+
+Parrafo_419:
+Pasé la aspiradora en la sala de estar.
+sentimiento_419:
+0.0
+
+Parrafo_420:
+Llené el tanque de gasolina del automóvil.
+sentimiento_420:
+0.0
+
+Parrafo_421:
+Regué las plantas del jardín en la tarde.
+sentimiento_421:
+0.0
+
+Parrafo_422:
+Hoy hice una lista de cosas pendientes para la semana.
+sentimiento_422:
+0.0
+
+Parrafo_423:
+Estuve revisando correos electrónicos durante la mañana.
+sentimiento_423:
+0.0
+
+Parrafo_424:
+Actualicé el software de mi computadora.
+sentimiento_424:
+0.0
+
+Parrafo_425:
+Salí a tirar la basura.
+sentimiento_425:
+0.0
+
+Parrafo_426:
+Respondí algunos mensajes de texto que tenía pendientes.
+sentimiento_426:
+0.0
+
+Parrafo_427:
+Acomodé los libros en la estantería.
+sentimiento_427:
+0.0
+
+Parrafo_428:
+Limpié la cocina después de cocinar.
+sentimiento_428:
+0.0
+
+Parrafo_429:
+Hoy llevé el coche al taller para una revisión.
+sentimiento_429:
+0.0
+
+Parrafo_430:
+Preparé café por la mañana antes de empezar a trabajar.
+sentimiento_430:
+0.0
+
+Parrafo_431:
+Pagué algunas facturas en línea.
+sentimiento_431:
+0.0
+
+Parrafo_432:
+Me puse al día con las noticias del día.
+sentimiento_432:
+0.0
+
+Parrafo_433:
+Salí a hacer una breve caminata al mediodía.
+sentimiento_433:
+0.0
+
+Parrafo_434:
+Guardé la ropa en el armario después de lavarla.
+sentimiento_434:
+0.0
+
+Parrafo_435:
+Llevé a la mascota al veterinario para un chequeo.
+sentimiento_435:
+0.0
+
+Parrafo_436:
+Revisé el calendario para organizar mis tareas.
+sentimiento_436:
+0.0
+
+Parrafo_437:
+Hice una videollamada con un colega de trabajo.
+sentimiento_437:
+0.0
+
+Parrafo_438:
+Completé un formulario en línea para una solicitud.
+sentimiento_438:
+0.0
+
+Parrafo_439:
+Tomé una breve siesta después del almuerzo.
+sentimiento_439:
+0.0
+
+Parrafo_440:
+Ordené los documentos en la carpeta de archivos.
+sentimiento_440:
+0.0
+
+Parrafo_441:
+Puse a cargar el teléfono antes de salir de casa.
+sentimiento_441:
+0.0
+
+Parrafo_442:
+Imprimí algunos documentos que necesitaba para el trabajo.
+sentimiento_442:
+0.0
+
+Parrafo_443:
+Lavé los platos después de cenar.
+sentimiento_443:
+0.0
+
+Parrafo_444:
+Llevé algunos libros a la biblioteca.
+sentimiento_444:
+0.0
+
+Parrafo_445:
+Apagué la computadora al terminar el día.
+sentimiento_445:
+0.0
+
+Parrafo_446:
+Preparé una taza de té en la tarde.
+sentimiento_446:
+0.0
+
+Parrafo_447:
+Respondí algunos correos electrónicos de la mañana.
+sentimiento_447:
+0.0
+
+Parrafo_448:
+Estuve organizando los archivos en mi computadora.
+sentimiento_448:
+0.0
+
+Parrafo_449:
+Pasé a recoger la ropa de la tintorería.
+sentimiento_449:
+0.0
+
+Parrafo_450:
+Configuré una alarma para despertarme temprano mañana.
+sentimiento_450:
+0.0
+
+Parrafo_451:
+Escuché un poco de música mientras trabajaba.
+sentimiento_451:
+0.0
+
+Parrafo_452:
+Me reuní con un colega para discutir un proyecto.
+sentimiento_452:
+0.0
+
+Parrafo_453:
+Anoté algunas ideas para futuros proyectos.
+sentimiento_453:
+0.0
+
+Parrafo_454:
+Limpié la pantalla del teléfono y de la computadora.
+sentimiento_454:
+0.0
+
+Parrafo_455:
+Guardé algunos documentos importantes en una carpeta.
+sentimiento_455:
+0.0
+
+Parrafo_456:
+Salí a hacer algunas compras rápidas para la casa.
+sentimiento_456:
+0.0
+
+Parrafo_457:
+Realicé algunos ajustes en mi agenda de la semana.
+sentimiento_457:
+0.0
+
+Parrafo_458:
+Hoy revisé mi cuenta bancaria en línea.
+sentimiento_458:
+0.0
+
+Parrafo_459:
+Planifiqué el menú de las comidas para los próximos días.
+sentimiento_459:
+0.0
+
+Parrafo_460:
+Vi un programa en la televisión antes de ir a dormir.
+sentimiento_460:
+0.0
+
+Parrafo_461:
+La vida es hermosa
+sentimiento_461:
+0.8
+
+Parrafo_462:
+La vida es triste
+sentimiento_462:
+-0.7
+
+Parrafo_463:
+La vida es un juego
+sentimiento_463:
+0.3
+
+Parrafo_464:
+La vida es un sueño
+sentimiento_464:
+0.4
+
+Parrafo_465:
+Tengo mucho trabajo
+sentimiento_465:
+0.0
+
+Parrafo_466:
+No tengo trabajo
+sentimiento_466:
+-0.5
+
+Parrafo_467:
+Quiero jugar en la noche
+sentimiento_467:
+0.2
+
+Parrafo_468:
+A veces creo que el simple hecho de vivir es un milagro
+sentimiento_468:
+0.7
+
+Parrafo_469:
+A veces creo que cuando todo sale mal, es porque algo mejor está por venir
+sentimiento_469:
+0.5
+
+Parrafo_470:
+Uno nunca sabe lo que tiene hasta que lo pierde
+sentimiento_470:
+-0.4
+
+Parrafo_471:
+La vida es un regalo
+sentimiento_471:
+0.8
+
+Parrafo_472:
+La felicidad es parte de vivir? o la vida siempre va ser una desgracia?
+sentimiento_472:
+-0.6
+
+Parrafo_473:
+Opino que el hecho de vivir en este mundo es una desgracia, fuimos condenados a tener que trabajar y vivir malas experiencias
+sentimiento_473:
+-0.8
+
+Parrafo_474:
+Opino que el hecho de vivir en este mundo es una bendición, fuimos premiados con la oportunidad de vivir y disfrutar de la vida
+sentimiento_474:
+0.9
+
+Parrafo_475:
+La vida es un misterio que jamás lograremos resolver.
+sentimiento_475:
+-0.5
+
+Parrafo_476:
+Cada día trae consigo una nueva oportunidad para aprender.
+sentimiento_476:
+0.6
+
+Parrafo_477:
+Me siento atrapado en la monotonía de la rutina diaria.
+sentimiento_477:
+-0.7
+
+Parrafo_478:
+A veces siento que el esfuerzo que hago no lleva a ningún lado.
+sentimiento_478:
+-0.6
+
+Parrafo_479:
+La felicidad no siempre está al alcance, pero sigo buscándola.
+sentimiento_479:
+0.3
+
+Parrafo_480:
+La vida puede ser difícil, pero siempre hay un motivo para seguir adelante.
+sentimiento_480:
+0.5
+
+Parrafo_481:
+No hay nada como disfrutar de los pequeños momentos que nos ofrece la vida.
+sentimiento_481:
+0.7
+
+Parrafo_482:
+Estoy cansado de luchar por cosas que parecen imposibles de alcanzar.
+sentimiento_482:
+-0.8
+
+Parrafo_483:
+A veces pienso que el tiempo pasa demasiado rápido y no alcanzo a disfrutarlo.
+sentimiento_483:
+-0.4
+
+Parrafo_484:
+Hoy es un buen día para comenzar de nuevo y dejar atrás el pasado.
+sentimiento_484:
+0.6
+
+Parrafo_485:
+La tristeza es pasajera, pero en el momento se siente eterna.
+sentimiento_485:
+-0.5
+
+Parrafo_486:
+Opino que cada día es una nueva oportunidad para hacer algo positivo.
+sentimiento_486:
+0.7
+
+Parrafo_487:
+La vida es un desafío constante, lleno de altas y bajas.
+sentimiento_487:
+0.1
+
+Parrafo_488:
+No siempre podemos controlar lo que sucede, pero sí cómo reaccionamos.
+sentimiento_488:
+0.3
+
+Parrafo_489:
+A veces creo que todo sacrificio vale la pena si nos acerca a nuestros sueños.
+sentimiento_489:
+0.6
+
+Parrafo_490:
+El hecho de que estemos vivos es en sí mismo un regalo invaluable.
+sentimiento_490:
+0.8
+
+Parrafo_491:
+La vida es una prueba, y a veces parece demasiado difícil de superar.
+sentimiento_491:
+-0.6
+
+Parrafo_492:
+No tengo grandes ambiciones, solo deseo paz y tranquilidad.
+sentimiento_492:
+0.2
+
+Parrafo_493:
+Opino que la vida puede ser injusta, pero eso también nos hace más fuertes.
+sentimiento_493:
+0.4
+
+Parrafo_494:
+A veces, solo quiero rendirme y dejar que la vida siga su curso.
+sentimiento_494:
+-0.4
+
+Parrafo_495:
+Cada experiencia, buena o mala, nos forma y nos enseña algo valioso.
+sentimiento_495:
+0.5
+
+Parrafo_496:
+El trabajo es una carga que a veces se vuelve insoportable.
+sentimiento_496:
+-0.7
+
+Parrafo_497:
+Quiero encontrar algo que realmente me apasione, algo que le dé sentido a mis días.
+sentimiento_497:
+0.4
+
+Parrafo_498:
+Creo que el simple hecho de respirar y existir es un milagro.
+sentimiento_498:
+0.7
+
+Parrafo_499:
+A veces siento que todo es una ilusión, que nada tiene un propósito real.
+sentimiento_499:
+-0.6
+
+Parrafo_500:
+La vida es un viaje con destino desconocido, y eso es lo que la hace interesante.
+sentimiento_500:
+0.5
+
+Parrafo_501:
+La soledad a veces se siente como una fiel compañera, aunque sea amarga.
+sentimiento_501:
+-0.5
+
+Parrafo_502:
+Cada sonrisa compartida es un recordatorio de que hay cosas buenas en el mundo.
+sentimiento_502:
+0.7
+
+Parrafo_503:
+A veces creo que estamos aquí solo para aprender y luego seguir adelante.
+sentimiento_503:
+0.3
+
+Parrafo_504:
+Quisiera poder entender cuál es el propósito de todo esto.
+sentimiento_504:
+-0.3
+
+Parrafo_505:
+La vida es tan frágil que cada instante debería ser un motivo de gratitud.
+sentimiento_505:
+0.6
+
+Parrafo_506:
+Tengo días en los que solo quiero que todo pase y encontrar la paz.
+sentimiento_506:
+-0.4
+
+Parrafo_507:
+A veces pienso que la vida es simplemente lo que hacemos de ella.
+sentimiento_507:
+0.2
+
+Parrafo_508:
+Cada error es una lección disfrazada que nos ayuda a mejorar.
+sentimiento_508:
+0.5
+
+Parrafo_509:
+Es difícil ver el lado positivo cuando las cosas van mal.
+sentimiento_509:
+-0.5
+
+Parrafo_510:
+La paciencia es una virtud necesaria en este mundo tan caótico.
+sentimiento_510:
+0.4
+
+Parrafo_511:
+Estoy agradecido por las pequeñas alegrías que encuentro cada día.
+sentimiento_511:
+0.6
+
+Parrafo_512:
+Siento que estoy en un ciclo sin fin, pero sé que puedo romperlo.
+sentimiento_512:
+0.3
+
+Parrafo_513:
+Opino que cada persona tiene su propio camino y debemos respetarlo.
+sentimiento_513:
+0.2
+
+Parrafo_514:
+Quiero hacer algo significativo, pero a veces dudo de mis capacidades.
+sentimiento_514:
+-0.3
+
+Parrafo_515:
+Cada día es una nueva oportunidad para comenzar de nuevo.
+sentimiento_515:
+0.5
+
+Parrafo_516:
+Es frustrante sentir que el esfuerzo no es suficiente.
+sentimiento_516:
+-0.6
+
+Parrafo_517:
+Quiero encontrar el equilibrio en la vida, aunque sé que no es fácil.
+sentimiento_517:
+0.4
+
+Parrafo_518:
+Aprecio los momentos tranquilos en los que puedo pensar en paz.
+sentimiento_518:
+0.5
+
+Parrafo_519:
+Siento que la vida es una mezcla de alegrías y desafíos, todo en balance.
+sentimiento_519:
+0.3
+
+Parrafo_520:
+Estoy en paz con lo que soy, aunque aún tengo cosas por mejorar.
+sentimiento_520:
+0.4
+
+Parrafo_521:
+Hoy me siento lleno de energía y con ganas de hacer muchas cosas.
+sentimiento_521:
+0.9
+
+Parrafo_522:
+La vida tiene altibajos, pero es importante mantener el optimismo.
+sentimiento_522:
+0.5
+
+Parrafo_523:
+No tengo motivación hoy, todo parece una carga pesada.
+sentimiento_523:
+-0.7
+
+Parrafo_524:
+Tuve un día tranquilo, sin nada particularmente especial.
+sentimiento_524:
+0.0
+
+Parrafo_525:
+Disfruto mucho los momentos con mis seres queridos, me llenan de alegría.
+sentimiento_525:
+0.8
+
+Parrafo_526:
+Siento que me tratan sin respeto, y eso me duele profundamente.
+sentimiento_526:
+-0.8
+
+Parrafo_527:
+Hoy fue un día excelente, todo salió como esperaba.
+sentimiento_527:
+0.9
+
+Parrafo_528:
+Hay días en los que me siento perdido y sin rumbo.
+sentimiento_528:
+-0.5
+
+Parrafo_529:
+Tuve una charla que me inspiró y me dio muchas ideas nuevas.
+sentimiento_529:
+0.7
+
+

@@ -1,0 +1,24 @@
+Parrafo_1:
+El clima hoy es perfecto, ni muy frío ni muy caliente. Aproveché para dar un paseo al parque. Me sentí relajado y disfruté el momento.
+sentimiento_1:
+0.8
+
+Parrafo_2:
+No logré terminar la tarea a tiempo. Me siento un poco decepcionado conmigo mismo. Necesito organizarme mejor para la próxima vez.
+sentimiento_2:
+-0.4
+
+Parrafo_3:
+Hoy descubrí un nuevo restaurante y la comida fue increíble. El servicio también fue excelente. Definitivamente volveré pronto.
+sentimiento_3:
+0.9
+
+Parrafo_4:
+El tráfico esta mañana fue insoportable. Me retrasé bastante y llegué tarde al trabajo. Fue un inicio de día estresante.
+sentimiento_4:
+-0.6
+
+Parrafo_5:
+Pasé un buen rato con amigos jugando videojuegos. Nos reímos mucho y el tiempo voló. Me sentí muy feliz y contento.
+sentimiento_5:
+0.7
